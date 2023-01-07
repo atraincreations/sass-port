@@ -1,0 +1,8 @@
+$primaryBtn : rgb(175, 175, 240);
+
+@import './header';
+
+.contact {
+    @extend header;
+    background-color: azure;
+}

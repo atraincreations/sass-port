@@ -1,0 +1,18 @@
+header, .contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: row;
+  background: rgb(176, 189, 243);
+}
+header button, .contact button {
+  background: rgb(175, 175, 240);
+}
+header button:hover, .contact button:hover {
+  background: lightcoral;
+}
+
+.contact {
+  background-color: azure;
+}/*# sourceMappingURL=style.css.map */
